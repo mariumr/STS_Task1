@@ -1,1 +1,1 @@
-# STS_Tasks
+# The first exercise
